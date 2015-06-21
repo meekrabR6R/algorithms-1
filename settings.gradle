@@ -1,0 +1,4 @@
+rootProject.name = 'algorithms-1'
+
+include 'percolation'
+
